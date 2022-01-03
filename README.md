@@ -8,3 +8,5 @@
 - [Chainlink](https://faucets.chain.link/)
 - [Rinkeby](https://faucet.rinkeby.io/)
 - [Ropsten](https://faucet.ropsten.be/)
+- [Binance](https://testnet.binance.org/faucet-smart)
+- [Bitkub](https://testnet.bkcscan.com/)
