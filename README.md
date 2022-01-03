@@ -4,3 +4,6 @@
 - [SPDX License List](https://spdx.org/licenses/)
 ## Crypto Wallet
 - [MetaMask](https://metamask.io/)
+## Testnet Faucet (เสกเงินเข้ากระเป๋า)
+- [Rinkeby](https://faucet.rinkeby.io/)
+- [Ropsten](https://faucet.ropsten.be/)
