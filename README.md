@@ -10,3 +10,5 @@
 - [Ropsten](https://faucet.ropsten.be/)
 - [Binance](https://testnet.binance.org/faucet-smart)
 - [Bitkub](https://testnet.bkcscan.com/)
+## ตรวจสอบ Smart Contract
+- [Ethereum](https://etherscan.io/)
