@@ -10,8 +10,9 @@
 - [Ropsten 5 rETH](https://faucet.dimensions.network/)
 - [Ropsten](https://faucet.ropsten.be/)
 - [Binance](https://testnet.binance.org/faucet-smart)
-- [Bitkub](https://testnet.bkcscan.com/)
+- [Bitkub](https://faucet.bitkubchain.com/)
 ## ตรวจสอบ Smart Contract
 - [Ethereum](https://etherscan.io/)
+- [Bitkub](https://testnet.bkcscan.com/)
 ## Ethereum Unit Converter
 - [Ethereum Unit Converter](https://eth-converter.com/)
